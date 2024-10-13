@@ -1,4 +1,11 @@
 # Backend Java Roadmap
+![image](https://github.com/user-attachments/assets/e3e70bb7-4e01-4857-8147-4f6832d71aed)
+## References:
+[Roadmap.sh](https://roadmap.sh/java)
+## Contacts
+- **Author**: Dang Duy Bang (BangDD) <br>
+- **Ideas and Scenarios**: Dang Duy Bang (BangDD) <br>
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bangdd/)
 
 ## Table of contents
 
@@ -12,7 +19,7 @@ ___
 - [6. Data structure](#6-data-structure)
 - [7. OOP](#7-oop)
 - [8. Packages](#8-package)
-- [9. Working with Files and APIs](#9-working-with-files-and-apis)
+- [9. Working with Files and APIs]()
 ___
 - [10. Loops]()
 - [11. Exception Handling]()
